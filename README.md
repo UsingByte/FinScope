@@ -1,2 +1,2 @@
-# Project_01
-(This will contain First Project of UsingByte. Name and contents will be changed soon.)
+# FinScope
+Accessing Country-Specific Economic Indicators Using Open Data From World Bank & UN & OECD
