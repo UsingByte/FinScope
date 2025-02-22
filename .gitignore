@@ -1,0 +1,54 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebugx86/
+[Dd]ebugx64/
+[Dd]istx86/
+[Dd]istx64/
+[Dd]ebug/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET Core and Visual Studio for Mac
+.vscode/
+
+# .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Tye configuration
+.tye/
+
+# Node.js packages
+node_modules/
+
+# npm log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
